@@ -3,7 +3,6 @@
 🎓 Aspiring Computer Science student from Pakistan  
 🔐 Passionate about Cybersecurity and Digital Safety  
 💻 Currently learning Python, WordPress, and basic networking  
-📚 Preparing for USAT-CS & Stipendium Hungaricum 2026  
 📝 Documenting my journey through GitHub and blogging
 
 ## 🔧 Skills & Tools
@@ -15,7 +14,6 @@
 ## 🚀 Current Projects
 - Python Practice Repository
 - WordPress Demo Site (coming soon!)
-- USAT Essay Drafts
 
 > 📌 *Still learning, still building — one step at a time.*
 
