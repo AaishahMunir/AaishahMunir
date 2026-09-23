@@ -5,11 +5,13 @@
 💻 Currently learning Python, WordPress, and basic networking  
 📝 Documenting my journey through GitHub and blogging
 
-## 🔧 Skills & Tools
-- Python (beginner)
-- WordPress (design + basic setup)
-- GitHub (just getting started!)
-- Writing + Research
+## 🛠️ Skills and Tools
+
+* **Programming:** Python, C
+* **Cybersecurity:** Security fundamentals, Linux CLI, basic web security
+* **Tools:** Git, GitHub, VS Code, Ubuntu/WSL
+* **Web:** WordPress, Elementor
+* **Other:** Microsoft Word, Excel
 
 ## 🚀 Featured Projects
 
@@ -33,13 +35,6 @@
 * 💰 [Pay Calculator](https://github.com/AaishahMunir/pay-calculator-python)
   Simple Python program for calculating pay.
 
-## 🛠️ Skills
-
-* **Programming:** Python, C
-* **Cybersecurity:** Security fundamentals, Linux CLI, basic web security
-* **Tools:** Git, GitHub, VS Code, Ubuntu/WSL
-* **Web:** WordPress, Elementor
-* **Other:** Microsoft Word, Excel
 
 
 > 📌 *Still learning, still building — one step at a time.*
