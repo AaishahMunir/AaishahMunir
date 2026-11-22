@@ -1,57 +1,36 @@
 # Hi, I'm Aaishah 👋
 
-🎓 Aspiring Computer Science student from Pakistan  
-🔐 Passionate about Cybersecurity and Digital Safety  
-💻 Currently learning Python, WordPress, and basic networking  
-📝 Documenting my journey through GitHub and blogging
+🎓 BS Cyber Security Student @ FAST-NUCES, Pakistan  
+🔐 Interested in Cybersecurity & Digital Forensics  
+💻 Learning C, Python, Linux & Web Development  
+🚀 Building projects and learning by doing.
 
-## 🛠️ Skills and Tools
+## 🛠️ Skills & Tools
 
-* **Programming:** Python, C
-* **Cybersecurity:** Security fundamentals, Linux CLI, basic web security
-* **Tools:** Git, GitHub, VS Code, Ubuntu/WSL
-* **Web:** WordPress, Elementor, HTML, CSS, Javascript
-* **Other:** Microsoft Word, Excel
+- **Languages:** C, Python, HTML, CSS, JavaScript
+- **Cybersecurity:** Security fundamentals, Linux CLI, basic web security
+- **Tools:** Git, GitHub, VS Code, Ubuntu/WSL
+- **Web Development:** WordPress, Elementor
 
 ## 🚀 Featured Projects
 
-* 🔐 [Website Security Checker](https://github.com/AaishahMunir/Security-Checker)
-  Python-based tool for checking HTTPS connectivity and common HTTP security headers.
+- 🔐 [StegoVault](https://github.com/AaishahMunir/StegoVault)  
+  C-based image steganography project using BMP files and password-based encryption. 
 
-* 🌐 [SweetCrumbs WordPress Site](https://github.com/AaishahMunir/sweetcrumbs-wordpress-site)
-  E-commerce bakery website built using WordPress and Elementor.
+- 🛡️ [Now What?](https://github.com/AaishahMunir/Now-What-get-help)  
+  Educational website providing step-by-step guidance for hacked accounts and online scams.
 
-* ☕ [Coffee Landing Page](https://github.com/AaishahMunir/coffee-landing-page)
-  Minimalist coffee store landing page built using WordPress and Elementor.
+- 🔐 [Website Security Checker](https://github.com/AaishahMunir/Security-Checker)  
+  Python tool for checking HTTPS connectivity and HTTP security headers.
 
-* 🐍 [Python Practice](https://github.com/AaishahMunir/My-Python-Practice)
-  Python exercises and programming practice from a freeCodeCamp course.
+- 🌐 [SweetCrumbs WordPress Site](https://github.com/AaishahMunir/sweetcrumbs-wordpress-site)  
+  Bakery e-commerce website built with WordPress and Elementor.
 
 ## 📚 Learning & Practice
 
-* 🐧 [Linux CLI Practice](https://github.com/AaishahMunir/linux-cli-practice)
-  Command-line practice completed during a Cybrary course.
-
-* 💰 [Pay Calculator](https://github.com/AaishahMunir/pay-calculator-python)
-  Simple Python program for calculating pay.
-
-
-
-> 📌 *Still learning, still building — one step at a time.*
+- 🐧 [Linux CLI Practice](https://github.com/AaishahMunir/linux-cli-practice)
+- 💰 [Pay Calculator](https://github.com/AaishahMunir/pay-calculator-python)
 
 ---
 
-<!--
-**AaishahMunir/AaishahMunir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 *Learning, experimenting, and building one project at a time.*
