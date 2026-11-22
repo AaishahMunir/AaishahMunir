@@ -10,7 +10,7 @@
 * **Programming:** Python, C
 * **Cybersecurity:** Security fundamentals, Linux CLI, basic web security
 * **Tools:** Git, GitHub, VS Code, Ubuntu/WSL
-* **Web:** WordPress, Elementor
+* **Web:** WordPress, Elementor, HTML, CSS, Javascript
 * **Other:** Microsoft Word, Excel
 
 ## 🚀 Featured Projects
